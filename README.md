@@ -11,7 +11,7 @@ Submission on Game Off 2021 [https://itch.io/jam/game-off-2021]
 2021-11-20 Sat : Platform started. Refactoring
 2021-11-21 Sun : Platform done. Cannon done. Cannonball done. Bale and Ball Jr added.
 2021-11-22 Mon : Ladder, firebird, evil bug added.
-2021-11-23 Tue :
+2021-11-23 Tue : Redbug added. Ladder and platform fixed. 
 2021-11-24 Wed :
 2021-11-25 Thu :
 2021-11-26 Fri :
@@ -25,3 +25,6 @@ Submission on Game Off 2021 [https://itch.io/jam/game-off-2021]
 
 - level design
 - bugfixC
+
+## Tiled
+[https://github.com/AlRado/TiledMapEditor-TIC-80]
