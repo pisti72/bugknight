@@ -14,7 +14,7 @@ Submission on Game Off 2021 [https://itch.io/jam/game-off-2021]
 2021-11-23 Tue : Redbug added. Ladder and platform fixed. 
 2021-11-24 Wed : Title gfx, knight gfx. sync(). Enemy hp. 
 2021-11-25 Thu : Gold, heart, map optimalizaton, Congrat scene. Game Over text. Score.
-2021-11-26 Fri :
+2021-11-26 Fri : Boss and cup added.
 2021-11-27 Sat : 
 2021-11-28 Sun : 
 2021-11-29 Mon :
