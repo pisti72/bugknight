@@ -15,8 +15,8 @@ Submission on Game Off 2021 [https://itch.io/jam/game-off-2021]
 2021-11-24 Wed : Title gfx, knight gfx. sync(). Enemy hp. 
 2021-11-25 Thu : Gold, heart, map optimalizaton, Congrat scene. Game Over text. Score.
 2021-11-26 Fri : Boss and cup added.
-2021-11-27 Sat : 
-2021-11-28 Sun : 
+2021-11-27 Sat : Cups added. Mushroom added. Failed text added.
+2021-11-28 Sun : Boss gfx added. Limits added. Map level 1-2 done.
 2021-11-29 Mon :
 2021-11-30 Tue :
 2021-12-01 Wed : Deadline - December 1st 2021 at 10:37 PM
@@ -25,9 +25,6 @@ Submission on Game Off 2021 [https://itch.io/jam/game-off-2021]
 
 - level design
 - bugfixC
-
-## Tiled
-[https://github.com/AlRado/TiledMapEditor-TIC-80]
 
 ## Shortcuts for TIC-80
 F6                      toggle CRT filter
