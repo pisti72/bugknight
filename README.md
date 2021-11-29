@@ -17,7 +17,7 @@ Submission on Game Off 2021 [https://itch.io/jam/game-off-2021]
 - 2021-11-26 Fri : Boss and cup added.
 - 2021-11-27 Sat : Cups added. Mushroom added. Failed text added.
 - 2021-11-28 Sun : Boss gfx added. Limits added. Map level 1-2 done.
-- 2021-11-29 Mon :
+- 2021-11-29 Mon : Level 2nd level done. Gameover position fixed.
 - 2021-11-30 Tue :
 - 2021-12-01 Wed : Deadline - December 1st 2021 at 10:37 PM
 
